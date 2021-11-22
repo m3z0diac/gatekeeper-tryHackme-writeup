@@ -1,5 +1,5 @@
 
-#### ctf link   : ![tryHackme gatekeeper](https://tryhackme.com/room/gatekeeper)
+#### ctf link   : [tryHackme gatekeeper](https://tryhackme.com/room/gatekeeper)
 #### Difficulty : Medium 
 #### Deskriptin : Can you get past the gate and through the fire?
 
