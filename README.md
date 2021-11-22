@@ -210,7 +210,7 @@ except:
 ```
 run the exploit after running the listener with
 ```
-nc -nlvp 444
+nc -nlvp 4444
 ```
 ```
 ┌──(root💀kali)-[/home/kali]
