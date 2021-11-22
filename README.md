@@ -74,7 +74,6 @@ SMB1 disabled -- no workgroup available
 ```
 we have a public directory, let's see what we can find in
 ```
-```
 smbclient //10.10.25.76/Users
 ```
 Enter WORKGROUP\root's password: 
