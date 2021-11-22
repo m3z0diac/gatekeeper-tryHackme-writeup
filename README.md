@@ -130,9 +130,9 @@ while True:
 run the program in you lab thin run this script in you kali.. we have the overflow size now ```159```
 
 ### note
-```
-in these writeup I will note go over all usal steps of the buffer overflow steps, instead of this I will recomond for you bufferoverflow tryhackme preparation room, it's good manual for you if you are a beginer in this topic
-```
+
+in these writeup I will note go over all usal steps of the buffer overflow steps, instead of this I will recomond for you [bufferoverflow tryhackme preparation room](https://tryhackme.com/room/bufferoverflowprep), it's good manual for you if you are a beginer in this topic
+
 so after all usal steps the results are:
 ```
 bad characters \x00\x0A
