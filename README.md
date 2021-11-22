@@ -423,7 +423,7 @@ Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
 C:\Windows\system32>
 
 ```
-boom...! we are the Administrator now
+boom...! we are the Administrator now<br>
 ![gif](https://hamza07-w.github.io/portfolio/img/wr/spacebox/noice.gif)
 ## root.txt
 ```
