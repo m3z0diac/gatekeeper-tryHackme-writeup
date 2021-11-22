@@ -75,7 +75,7 @@ SMB1 disabled -- no workgroup available
 we have a public directory, let's see what we can find in
 ```
 smbclient //10.10.25.76/Users
-```
+
 Enter WORKGROUP\root's password: 
 Try "help" to get a list of possible commands.
 smb: \> dir
@@ -85,14 +85,12 @@ smb: \> dir
   desktop.ini                       AHS      174  Tue Jul 14 00:54:24 2009
   Share                               D        0  Thu May 14 21:58:07 2020
 
-		7863807 blocks of size 4096. 3975016 blocks available
 smb: \> cd share
 smb: \share\> dir
   .                                   D        0  Thu May 14 21:58:07 2020
   ..                                  D        0  Thu May 14 21:58:07 2020
   gatekeeper.exe                      A    13312  Mon Apr 20 01:27:17 2020
 
-		7863807 blocks of size 4096. 3975016 blocks available
 smb: \share\> get gatekeeper.exe
 getting file \share\gatekeeper.exe of size 13312 as gatekeeper.exe (27.8 KiloBytes/sec) (average 27.8 KiloBytes/sec)
 smb: \share\> 
